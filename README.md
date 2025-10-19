@@ -8,7 +8,7 @@ Over the past few weeks, I’ve explored SQL more deeply than ever — learning 
 ---
 
 <div align="center">
-  <img src="sql_overview.gif" width="800" alt="SQL Journey Overview">
+  <img src="sql_overview.gif" width="600" alt="SQL Journey Overview">
 </div>
 
 ---
