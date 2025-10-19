@@ -56,5 +56,3 @@ It teaches you to **think in sets, not steps**, and once you adopt that mindset,
 
 SQL has transformed the way I think about data — not just as information, but as **insight waiting to be unlocked**.  
 This journey strengthened my curiosity, problem-solving mindset, and appreciation for the beauty of data logic.  
-
-✨ **Here’s to continuous learning and the joy of solving problems, one query at a time.** 🧩
